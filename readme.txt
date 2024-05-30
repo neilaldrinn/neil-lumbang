@@ -1,49 +1,48 @@
-Prelimos
-Act 1 .
-Determine the Variance and standard Deviation of each Random variable
-\begin{array}{c|c|c|c}
- x  & 4 & 6 & 8 \\
- P(x)  &  13 \%  &  35 \%  &  52 \% 
-\end{array}
+Personal Website - Neil Aldrin Lumbang
+Welcome to my personal website! I'm Neil Aldrin Lumbang, a passionate student and basketball player. This site is a window into my life, showcasing my interests, goals, and experiences. Below is an overview of what you can find here.
 
-Act 2 .
-Solve for the mean
-\( \left. \)\begin{array}{c|c|c|c|c}
- 1 x  & 2 & 4 & 6 & 8 \\
- P P(x)  & 0.6 & 0.1 & 0.2 & 0.1
-\end{array} \right\rvert\,
-\begin{array}{c|c|c|c|c|c|c|c} 
-2.  x  & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\
-\hline P(x)  &  1 / 6  &  1 / 6  &  1 / 6  &  1 / 6  &  1 / 6  &  1 / 6  &  1 / 6 
-\end{array}
+About Me
+Hello there! My name is Neil Aldrin Lumbang, and I'm a 20-year-old student from the picturesque town of Arayat, Pampanga. Currently, I am a second-year Information Systems student at Exact Colleges in Asia. I have a deep love for learning, whether it's through my studies, reading a captivating novel, or exploring the realms of music and art.
 
-Act 3
-Find mean, median and mode
-\[
-\begin{array}{l}
-38,39,29,28,21,28,15,20,35,41,21,19,15,20,26,32,14,38,25,34, \\
-19,42,33,25,43,24,22,43,19,22,42,22,41,27,16,26,40,19,15,32
-\end{array}
-\]
+Education
+Exact Colleges of Asia
+Program: Bachelor of Science in Information Systems
+Duration: August 2022 - Present
+Description: I am diving deep into the world of technology, from programming and coding to data analysis and user interface design. This journey is an exciting challenge that broadens my skills and understanding of the digital landscape.
+Arayat Holy Child Educational Foundation Inc.
+Duration: 2016 - 2022
+Description: This Catholic school was my educational home for both junior and senior high school. It has been instrumental in shaping my academic and personal growth through its commitment to excellence, spiritual development, and community service.
+Goals
+My goal with this website is to share information about myself and my hobbies. Here are a few key areas of my life:
 
-Aet 4
-Solve mean, median and mode for grouped and ungrouped data
-\[
-\begin{array}{l}
-64,39,54,76,41,49,51,63,46,58,41,61,60,60,49,38,59,51,51,38,59, \\
-62,40,43,60,43,56,47,54,61,38,54,65,54,44,61,63,66,59,47,56 \\
-07,49,56,48,59,60,43,48,58 .
-\end{array}
-\]
+Basketball
+Basketball is more than just a sport to me; it's a passion. Whether I'm playing on the court or watching the latest NBA games, I live and breathe basketball.
 
-Act 5
-Using the data on Act. 4
+Mobile Games
+I'm an avid gamer, particularly fond of Mobile Legends. Gaming is my escape, and I love teaming up with friends to conquer the virtual battlefield.
 
-Solve: (6rouped Data)
-1 Range
-4. Population Variance
-7. Sample 5D
-2. IQR
-5. Population SD
-3. MAD
-6. Sample variance
+Family
+Family is everything to me. I strive to be a supportive son and cherish the love and guidance from my parents.
+
+Friends
+Spending time with friends, especially over coffee, brings joy to my life. Those shared moments and laughter are priceless.
+
+Shoes
+I'm a sneakerhead at heart. I love collecting sneakers and each pair adds a unique touch to my style.
+
+Movies
+Movies are a big part of my life. I enjoy everything from blockbusters to indie films and love getting lost in a great story.
+
+Photography
+I also have a section dedicated to my photographs. These images capture moments from my life, particularly my love for basketball.
+
+Technologies Used
+This website is built using the following technologies:
+
+HTML5: For structuring the content.
+CSS3: For styling and layout.
+JavaScript: For interactive elements and dynamic content.
+Bootstrap: For responsive design and faster development.
+Font Awesome: For icons used throughout the site.
+jQuery: For simplified JavaScript programming.
+Google Fonts: For custom typography.
